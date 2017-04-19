@@ -1,0 +1,4 @@
+Hela mundo
+
+Este programa genera 4
+lineas ed codigo
